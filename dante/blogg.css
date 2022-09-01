@@ -1,0 +1,27 @@
+h2 {
+
+}
+
+date {
+
+}
+
+p {
+    
+}
+
+#buttonBack {
+    position: absolute;
+    right: 1rem;
+    bottom: 0.5rem;
+    
+}
+
+img {
+    animation: fristLook 02s linear forwards;
+}
+
+@keyframes fristLook {
+    0% {transform: scale(0.2);}
+    100% {transform: scale(1);}
+}
